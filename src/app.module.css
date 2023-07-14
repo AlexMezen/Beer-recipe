@@ -3,6 +3,21 @@
     margin: 15px;
     border: 1px solid brown;
 }
-.mr{
+.back2{
+    background: red;
     margin: 15px;
+    border: 1px solid brown;
+}
+.btn {
+    position: fixed;
+    background: blue;
+    color: red;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    font-size: 14px;
+    width: 100px;
+    height: 100px;
+    right: 0;
+    top: 30%;
 }
