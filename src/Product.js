@@ -11,7 +11,7 @@ function Product() {
         fetchProduct(id);
     }, [] );
     
-    return <div>Fecthing data...
+    return <div>
         {
            data.map(el=>{
              return <div className={app.back}>
